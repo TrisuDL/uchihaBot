@@ -1,0 +1,26 @@
+Music:
+  join         Joins a voice channel.
+  pause        Pauses the currently played song.
+  play         Plays a song.
+  playing      Shows info about the currently played song.
+  resume       Resumes the currently played song.
+  skip         Vote to skip a song. The song requester can automatically skip.
+  stop         Stops playing audio and leaves the voice channel.
+  summon       Summons the bot to join your voice channel.
+  volume       Sets the volume of the currently playing song.
+​No Category:
+  help         Shows this message.
+  random_gif   send you random gif
+  search_gif   search for you gif
+  sheepbot     curse sheepbot
+  gif          wait
+  delete       delete messages
+  uchihaTrivia An naruto trivia
+  epsoide      find to you naruto epsoide,syntax: shippuden/naruto epNum eng/...
+  sharinganLvl picture of sharingan by level, and itachi sharingan sound 
+  fight        find for you fights, syntax charecter1 charecter2 season
+  add          Adds two numbers together.
+  mult         Mult two numbers together.
+  div          Div 2 numbers
+  sub          sub 2 numbers
+  hello        Welcome message
